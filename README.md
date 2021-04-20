@@ -1,3 +1,25 @@
+<h1 align="center">Welcome to Hooba</h1>
+<h3><a href="https://discord.gg/wC7sfXDjTG" target="_blank">Join our discord server</a></h3>
+
+##  Contributors
+
+<table>
+  <tr>
+    <td align="center"> <a href="https://github.com/HoobaHub">HoobaHub</a> </td>
+    <td><img src="https://avatars.githubusercontent.com/u/82757419?v=4" with="50" height="50"></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/AlishahMughal123">AlishahMughal123</a> </td>
+    <td><img src="https://avatars.githubusercontent.com/u/52525188?v=4" with="50" height="50"></td>
+  </tr>
+  <tr>
+    <th align="center"> <a href="https://github.com/Ryan-da-ghost/">Ryan The Ghost</a> </th>
+    <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4" with="50" height="50"></th>
+
+  </tr>
+</table>
+
+##  About Hooba
 Good day to all!
 In today's world it is crazy with what one can do and achieve with technology when he/she puts their mind to it. 
 We have witnessed greatness over the past few years through bitcoin and blockchain technology.
@@ -14,7 +36,7 @@ Before I introduce to you what we aim to do I would like you to go over the foll
 - I want to know the people who share the same interest as me!
 - I love the collection of this guy/girl I want to chat with him!
 
-Isn't it true that what truly drives the value of art isn't just its monetary value alone but its sentimental value too and underlying reasons for the creation of that piece?
+Isn't it true that what truly drives the value of art isn't just its monetary value alone but its sentimental value too and underlying reasons for the creation of that piece.
 Now picture a community where all of these questions can be discussed freely, all the friends you could meet, all the partnerships, opportunities, and creative minds gathered within
 the Hub. The story behind the masterpieces of the world, the trending topics of the day, the millions of people sparking conversations and discussions on what interests them.
 It is a paradise where one can truly express his/her mind and showcase it to the entire world.
@@ -26,9 +48,16 @@ But hatatatat we'll stop right there...
 
 Hooba is open source so feel free to let your creativity sweep you off of your feet!
 
-If you are open to contribute you can!
 
-If you are interested and you want to know more you can contact me and my cofounders at the following:
-Hooba#3737 via Discord
-Aly_Inj3ctor#0058 via Discord
-Ryan The Ghost#3191 via Discord
+##  Contributing
+
+Contributions, issues and feature requests are welcome!<br />
+If you  are interested or you have any concerns feel free to Join our discord server: https://discord.gg/wC7sfXDjTG
+
+##  License
+
+Copyright © 2021 [HoobaHub](https://https://github.com/HoobaHub).<br />
+This project is [MIT](LICENSE) licensed.
+
+---
+

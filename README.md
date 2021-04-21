@@ -12,11 +12,6 @@
     <td align="center"> <a href="https://github.com/AlishahMughal123">AlishahMughal123</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/52525188?v=4" with="50" height="50"></td>
   </tr>
-  <tr>
-    <th align="center"> <a href="https://github.com/Ryan-da-ghost/">Ryan The Ghost</a> </th>
-    <th><img src="https://avatars.githubusercontent.com/u/78041469?v=4" with="50" height="50"></th>
-
-  </tr>
 </table>
 
 ##  About Hooba

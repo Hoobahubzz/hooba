@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Hooba</h1>
+<h1 align="center">Welcome to Voice-Anonymous</h1>
 <h3><a href="https://discord.gg/wC7sfXDjTG" target="_blank">Join our discord server</a></h3>
 
 ##  Contributors

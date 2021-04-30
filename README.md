@@ -12,6 +12,10 @@
     <td align="center"> <a href="https://github.com/AlishahMughal123">AlishahMughal123</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/52525188?v=4" with="50" height="50"></td>
   </tr>
+  <tr>
+    <td align="center"> <a href="https://https://github.com/BrianRuizy">BrianRuizy</a> </td>
+    <td><img src="https://avatars.githubusercontent.com/u/23439187?v=4" with="50" height="50"></td>
+  </tr>
 </table>
 
 ##  About Hooba

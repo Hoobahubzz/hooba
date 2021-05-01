@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Voice-Anonymous</h1>
 <h3><a href="https://discord.gg/wC7sfXDjTG" target="_blank">Join our discord server</a></h3>
 
-##  Contributors
+##  The Founders
 
 <table>
   <tr>
@@ -15,6 +15,9 @@
   <tr>
     <td align="center"> <a href="https://https://github.com/BrianRuizy">BrianRuizy</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/23439187?v=4" with="50" height="50"></td>
+  </tr>
+  <td align="center"> <a href="https://https://https://github.com/Azox-sudo">Azox-sudo</a> </td>
+    <td><img src="https://avatars.githubusercontent.com/u/54445450?v=4" with="50" height="50"></td>
   </tr>
 </table>
 

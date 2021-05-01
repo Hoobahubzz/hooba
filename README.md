@@ -13,10 +13,10 @@
     <td><img src="https://avatars.githubusercontent.com/u/52525188?v=4" with="50" height="50"></td>
   </tr>
   <tr>
-    <td align="center"> <a href="https://https://github.com/BrianRuizy">BrianRuizy</a> </td>
+    <td align="center"> <a href="https://github.com/BrianRuizy">BrianRuizy</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/23439187?v=4" with="50" height="50"></td>
   </tr>
-  <td align="center"> <a href="https://https://https://github.com/Azox-sudo">Azox-sudo</a> </td>
+  <td align="center"> <a href="https://github.com/Azox-sudo">Azox-sudo</a> </td>
     <td><img src="https://avatars.githubusercontent.com/u/54445450?v=4" with="50" height="50"></td>
   </tr>
 </table>

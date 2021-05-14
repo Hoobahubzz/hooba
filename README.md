@@ -4,7 +4,7 @@
 
 ## Start developing
 
-Get project running locally quickly and easily with the following commands in your terminal.
+Get project running locally quickly and easily with the following commands in your terminal. You will need Python 3.9
 
 ```bash
 python -m venv env

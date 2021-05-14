@@ -1,0 +1,10 @@
+<!-- templates/home.html -->
+{% load socialaccount %}
+
+<h1>Home Page</h1>
+{% if user.is_authenticated %}
+    <h3>Welcome {{ user.username }} !!!</h3>
+    <a href="{% url 'account_logout' %}">Log out</a>
+{% else %}
+    <a href="{% provider_login_url 'github' %}">Sign Up</a>
+{% endif %}

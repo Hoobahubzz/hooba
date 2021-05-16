@@ -1,0 +1,12 @@
+<!-- templates/home.html -->
+{% load socialaccount %}
+
+<h1>Home Page</h1>
+{% if user.is_authenticated %}
+    <h3>Welcome {{ user.username }} !!!</h3>
+    <h3>Email: {{ user.email }} !!!</h3>
+
+    <a href="{% url 'account_logout' %}">Log out</a>
+{% else %}
+    <a href="{% url 'account_login' %}">Login Page</a>
+{% endif %}

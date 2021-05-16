@@ -46,7 +46,9 @@ INSTALLED_APPS = [
     # include the providers you want to enable
     'allauth.socialaccount.providers.github',
 
-    'core', 
+    # custom apps
+    'core',
+    'users'
 ]
 
 MIDDLEWARE = [
@@ -146,3 +148,35 @@ SITE_ID = 1
 ACCOUNT_EMAIL_VERIFICATION = 'none'
 
 LOGIN_REDIRECT_URL = 'home'
+
+
+AUTH_USER_MODEL = 'users.User'
+
+
+# Django-allauth settings / configs:
+
+# Settings for email as username:
+# This has the added advantage of avoiding users creating duplicate accounts.
+# If someone tries to create an account with Twitter, 
+# but they already have an account with us with the email address that Twitter provides, 
+# they will receive a message reminding them they already have an account
+ACCOUNT_USER_MODEL_USERNAME_FIELD = None
+ACCOUNT_EMAIL_REQUIRED = True
+ACCOUNT_USERNAME_REQUIRED = False
+ACCOUNT_AUTHENTICATION_METHOD = 'email'
+
+# # Email confirmation
+ACCOUNT_EMAIL_SUBJECT_PREFIX = "[My Website]"
+ACCOUNT_LOGIN_ON_EMAIL_CONFIRMATION = True
+
+# # After 10 failed login attempts, restrict logins for 30 minutes
+ACCOUNT_LOGIN_ATTEMPTS_LIMIT = 10
+ACCOUNT_LOGIN_ATTEMPTS_TIMEOUT = 1800
+ACCOUNT_PASSWORD_MIN_LENGTH = 12
+
+# # Other settings
+ACCOUNT_DEFAULT_HTTP_PROTOCOL = "https"
+ACCOUNT_LOGIN_ON_PASSWORD_RESET = True
+SOCIALACCOUNT_AUTO_SIGNUP = False
+
+#https://medium.com/@ksarthak4ever/django-custom-user-model-allauth-for-oauth-20c84888c318
